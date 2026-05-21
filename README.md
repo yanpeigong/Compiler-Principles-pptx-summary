@@ -21,5 +21,6 @@
 - Chapter 1 — 绪论
 - Chapter 3 — 词法分析
 - Chapter 4 — 自顶向下语法分析
+- Chapter 5 — 语法制导翻译
 
 持续更新中。
