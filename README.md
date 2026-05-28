@@ -22,5 +22,6 @@
 - Chapter 3 — 词法分析
 - Chapter 4 — 自顶向下语法分析
 - Chapter 5 — 语法制导翻译
+- Chapter 7 — 语义分析与中间代码生成
 
 持续更新中。
